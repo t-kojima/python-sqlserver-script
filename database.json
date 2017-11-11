@@ -1,0 +1,6 @@
+{
+    "server": "<host or ipaddress>",
+    "user": "<user id>",
+    "password": "<password>",
+    "dbname": "<dbname>"
+}
